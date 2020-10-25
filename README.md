@@ -7,4 +7,4 @@ ensure stability across runs. It is recommended that users create a virtual envi
 For questions about the code, data processing or figure rendering, please email ghassan.makhoul@ucsf.edu.
 For general inquiries about the paper, clinical trial, or research please email katherin.scangos@ucsf.edu
 
-NOTE: some data is directly transcribed into the notebook from larger tables that are not included within this repo.
+NOTE: some data is directly transcribed into the notebook from larger tables that are not included within their entirety in this notebook
