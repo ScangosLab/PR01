@@ -1,0 +1,163 @@
+stim_site,full_params,arousal,pos_neg,somatic,stim_sesh,trial,freq,amps,duration
+ROFC 5+/6-,100Hz 3mA 1s,0,0,0,Stim safety survey,1,100Hz,3mA,1s
+ROFC 5+/6-,100Hz 3mA 3s,0,0,0,Stim safety survey,2,100Hz,3mA,3s
+ROFC 5+/6-,100Hz 6mA 1s,0,0,0,Stim safety survey,3,100Hz,6mA,1s
+ROFC 5+/6-,100Hz 6mA 3s,0,0,0,Stim safety survey,4,100Hz,6mA,3s
+ROFC 3+/4-,100Hz 3mA 1s,0,0,-1,Stim safety survey,5,100Hz,3mA,1s
+ROFC 3+/4-,100Hz 3mA 3s,1,0,0,Stim safety survey,6,100Hz,3mA,3s
+ROFC 3+/4-,100Hz 6mA 1s,0,0,-1,Stim safety survey,7,100Hz,6mA,1s
+ROFC 3+/4-,100Hz 6mA 3s,1,0,0,Stim safety survey,8,100Hz,6mA,3s
+RH 3+/4- ,100Hz 3mA 1s,0,0,0,Stim safety survey,9,100Hz,3mA,1s
+RH 3+/4- ,100Hz 3mA 3s,0,0,-1,Stim safety survey,10,100Hz,3mA,3s
+RA 2+/3-,100Hz 3mA 1s,0,0,0,Stim safety survey,11,100Hz,3mA,1s
+RA 2+/3-,100Hz 3mA 3s,0,0,0,Stim safety survey,12,100Hz,3mA,3s
+RA 2+/3-,100Hz 6mA 1s,0,-2,0,Stim safety survey,13,100Hz,6mA,1s
+RA 2+/3-,100Hz 6mA 3s,0,0,0,Stim safety survey,14,100Hz,6mA,3s
+LOFC 7+/8-,100Hz 3mA 1s,0,0,0,Stim safety survey,15,100Hz,3mA,1s
+LOFC 7+/8-,100Hz 3mA 3s,0,0,0,Stim safety survey,16,100Hz,3mA,3s
+LOFC 7+/8-,100Hz 6mA 1s,-2,0,-1,Stim safety survey,17,100Hz,6mA,1s
+LOFC 7+/8-,100Hz 6mA 3s,0,0,0,Stim safety survey,18,100Hz,6mA,3s
+LSGC 3+/4-,100Hz 3mA 1s,-2,0,0,Stim safety survey,19,100Hz,3mA,1s
+LSGC 3+/4-,100Hz 3mA 3s,-2,0,0,Stim safety survey,20,100Hz,3mA,3s
+LSGC 3+/4-,100Hz 6mA 1s,-1,1,0,Stim safety survey,21,100Hz,6mA,1s
+LSGC 3+/4-,100Hz 6mA 3s,-1,1,0,Stim safety survey,22,100Hz,6mA,3s
+LA 2+/3-,100Hz 3mA 1s,1,1,0,Stim safety survey,23,100Hz,3mA,1s
+LA 2+/3-,100Hz 3mA 3s,0,0,0,Stim safety survey,24,100Hz,3mA,3s
+LA 2+/3-,100Hz 6mA 1s,0,0,0,Stim safety survey,25,100Hz,6mA,1s
+LA 2+/3-,100Hz 6mA 3s,0,0,0,Stim safety survey,26,100Hz,6mA,3s
+RVC 1+/2-,100Hz 3mA 1s,0,1,0,Stim safety survey,27,100Hz,3mA,1s
+RVC 1+/2-,100Hz 3mA 3s,0,0,-1,Stim safety survey,28,100Hz,3mA,3s
+RVC 1+/2-,100Hz 6mA 1s,0,0,-1,Stim safety survey,29,100Hz,6mA,1s
+RVC 1+/2-,100Hz 6mA 3s,0,0,0,Stim safety survey,30,100Hz,6mA,3s
+LVC 1+/2-,100Hz 3mA 1s,0,0,0,Stim safety survey,31,100Hz,3mA,1s
+LVC 1+/2-,100Hz 3mA 3s,0,0,0,Stim safety survey,32,100Hz,3mA,3s
+LVC 1+/2-,100Hz 6mA 1s,0,0,-1,Stim safety survey,33,100Hz,6mA,1s
+LVC 1+/2-,100Hz 6mA 3s,0,0,0,Stim safety survey,34,100Hz,6mA,3s
+LOFC 8+/1-,100Hz 3mA 10+s,0,0,0,Stim safety survey,35,100Hz,3mA,10+s
+LOFC 8+/6-,100Hz 3mA 10+s,2,0,0,Stim safety survey,36,100Hz,3mA,10+s
+LOFC 7+/8-,100Hz 3mA 10+s,-2,0,-1,Stim safety survey,37,100Hz,3mA,10+s
+LOFC 8+/1-,1Hz 3mA 10+s,-1,-1,-1,Stim safety survey,38,1Hz,3mA,10+s
+LOFC 8+/6-,1Hz 3mA 10+s,0,1,0,Stim safety survey,39,1Hz,3mA,10+s
+LOFC 7+/8-,1Hz 3mA 10+s,-2,0,0,Stim safety survey,40,1Hz,3mA,10+s
+LOFC 1+/3-,1Hz 3mA 10+s,0,0,0,Stim safety survey,41,1Hz,3mA,10+s
+LSGC 1+/2-,100Hz 3mA 10+s,0,0,0,Stim safety survey,42,100Hz,3mA,10+s
+LSGC 1+/2-,100Hz 6mA 10+s,0,0,0,Stim safety survey,43,100Hz,6mA,10+s
+LSGC 2+/3-,100Hz 3mA 10+s,0,0,0,Stim safety survey,44,100Hz,3mA,10+s
+LSGC 2+/3-,100Hz 6mA 10+s,0,0,0,Stim safety survey,45,100Hz,6mA,10+s
+LSGC 3+/4-,100Hz 3mA 10+s,0,-2,-1,Stim safety survey,46,100Hz,3mA,10+s
+LSGC 3+/4-,100Hz 6mA 10+s,1,0,0,Stim safety survey,47,100Hz,6mA,10+s
+LSGC 1+/3-,100Hz 3mA 10+s,0,0,0,Stim safety survey,48,100Hz,3mA,10+s
+LSGC 1+/3-,100Hz 6mA 10+s,-1,0,0,Stim safety survey,49,100Hz,6mA,10+s
+LSGC 2+/4-,100Hz 3mA 10+s,0,0,0,Stim safety survey,50,100Hz,3mA,10+s
+LSGC 2+/4-,100Hz 6mA 10+s,0,0,-1,Stim safety survey,51,100Hz,6mA,10+s
+LSGC 1+/4-,100Hz 3mA 10+s,-1,0,0,Stim safety survey,52,100Hz,3mA,10+s
+LSGC 1+/4-,100Hz 6mA 10+s,-1,0,0,Stim safety survey,53,100Hz,6mA,10+s
+LVC 1+/2-,100Hz 3mA 10+s,0,1,0,Stim safety survey,54,100Hz,3mA,10+s
+LVC 2+/3-,100Hz 3mA 10+s,0,-1,-1,Stim safety survey,55,100Hz,3mA,10+s
+LVC 3+/4-,100Hz 3mA 10+s,0,0,0,Stim safety survey,56,100Hz,3mA,10+s
+LVC 1+/3-,100Hz 3mA 10+s,0,0,-1,Stim safety survey,57,100Hz,3mA,10+s
+LVC 2+/4-,100Hz 3mA 10+s ,1,0,-1,Stim safety survey,58,100Hz,3mA,10+s
+LVC 1+/41,100Hz 3mA 10+s ,1,-1,-1,Stim safety survey,59,100Hz,3mA,10+s
+ROFC 7+/1-,1Hz 3mA 10+s,1,1,0,Stim safety survey,60,1Hz,3mA,10+s
+ROFC 7+/1-,1Hz 6mA 10+s,0,1,0,Stim safety survey,61,1Hz,6mA,10+s
+ROFC 6+/3-,1Hz 3mA 10+s,0,0,-1,Stim safety survey,62,1Hz,3mA,10+s
+ROFC 6+/3-,1Hz 6mA 10+s,0,0,-1,Stim safety survey,63,1Hz,6mA,10+s
+ROFC 6+/5-,1Hz 3mA 10+s,0,0,0,Stim safety survey,64,1Hz,3mA,10+s
+ROFC 6+/5-,1Hz 6mA 10+s,0,-1,0,Stim safety survey,65,1Hz,6mA,10+s
+ROFC 1+/3-,1Hz 3mA 10+s,1,1,0,Stim safety survey,66,1Hz,3mA,10+s
+ROFC 1+/3-,1Hz 6mA 10+s,0,-2,0,Stim safety survey,67,1Hz,6mA,10+s
+ROFC 7+/1-,100Hz 3mA 10+s ,0,0,0,Stim safety survey,68,100Hz,3mA,10+s
+ROFC 7+/1-,100Hz 6mA 10+s ,0,0,0,Stim safety survey,69,100Hz,6mA,10+s
+ROFC 6+/3-,100Hz 3mA 10+s ,0,-1,-1,Stim safety survey,70,100Hz,3mA,10+s
+ROFC 6+/3-,100Hz 6mA 10+s ,0,0,0,Stim safety survey,71,100Hz,6mA,10+s
+ROFC 6+/5-,100Hz 3mA 10+s ,0,0,-1,Stim safety survey,72,100Hz,3mA,10+s
+ROFC 6+/5-,100Hz 6mA 10+s ,1,1,0,Stim safety survey,73,100Hz,6mA,10+s
+ROFC 1+/3-,100Hz 3mA 10+s ,0,0,0,Stim safety survey,74,100Hz,3mA,10+s
+ROFC 1+/3-,100Hz 6mA 10+s ,0,0,0,Stim safety survey,75,100Hz,6mA,10+s
+RSGC 2+/3-,100Hz 3mA 10+s ,0,0,0,Stim safety survey,76,100Hz,3mA,10+s
+RSGC 2+/3-,100Hz 6mA 10+s ,0,0,0,Stim safety survey,77,100Hz,6mA,10+s
+RSGC 3+/4-,100Hz 3mA 10+s ,0,0,0,Stim safety survey,78,100Hz,3mA,10+s
+RSGC 3+/4-,100Hz 6mA 10+s ,-1,1,-1,Stim safety survey,79,100Hz,6mA,10+s
+RSGC 4+/5- ,100Hz 3mA 10+s ,1,0,0,Stim safety survey,80,100Hz,3mA,10+s
+RSGC 4+/5- ,100Hz 6mA 10+s ,0,0,-1,Stim safety survey,81,100Hz,6mA,10+s
+RSGC 2+/4-,100Hz 3mA 10+s ,1,1,-1,Stim safety survey,82,100Hz,3mA,10+s
+RSGC 2+/4-,100Hz 6mA 10+s ,0,-1,-1,Stim safety survey,83,100Hz,6mA,10+s
+RSGC 3+/5-,100Hz 3mA 10+s ,0,-1,-1,Stim safety survey,84,100Hz,3mA,10+s
+RSGC 3+/5-,100Hz 6mA 10+s ,0,0,0,Stim safety survey,85,100Hz,6mA,10+s
+RSGC 2+/5-,100Hz 3mA 10+s ,0,0,0,Stim safety survey,86,100Hz,3mA,10+s
+RSGC 2+/5-,100Hz 6mA 10+s ,-1,-1,-1,Stim safety survey,87,100Hz,6mA,10+s
+RVC 1+/2-,100Hz 3mA 10+s ,2,-2,-1,Stim safety survey,88,100Hz,3mA,10+s
+RVC 2+/3-,100Hz 3mA 10+s ,0,1,-1,Stim safety survey,89,100Hz,3mA,10+s
+RVC 3+/4-,100Hz 3mA 10+s ,-1,1,0,Stim safety survey,90,100Hz,3mA,10+s
+RVC 1+/3-,100Hz 3mA 10+s ,1,-2,-1,Stim safety survey,91,100Hz,3mA,10+s
+LOFC 8+/6-,1Hz 3mA 10+s ,2,0,0,Stim safety survey,92,1Hz,3mA,10+s
+ROFC 7+/1-,1Hz 6mA 10+s,1,2,0,Stim safety survey,93,1Hz,6mA,10+s
+ROFC 1+/3-,1Hz 3mA 10+s,1,0,0,Stim safety survey,94,1Hz,3mA,10+s
+RSGC 4+/5- ,100Hz 3mA 10+s ,1,1,-1,Stim safety survey,95,100Hz,3mA,10+s
+RVC 3+/4-,100Hz 1mA 10+s ,0,0,-1,Stim safety survey,96,100Hz,1mA,10+s
+LVC 2+/3- ,1Hz 1mA 10+s ,1,-1,0,Stim safety survey,97,1Hz,1mA,10+s
+ROFC 7+/1-,1HZ 6mA 3+min,-2,-1,0,sham 1,98,1HZ,6mA,3+min
+LOFC 8+/1-,1Hz 3mA 3+min,0,0,0,sham 1,99,1Hz,3mA,3+min
+RVC 3+/4-,100Hz 1mA 3+min,0,-1,-1,sham 1,100,100Hz,1mA,3+min
+RSGC 4+/5- ,100Hz 3mA 3+min,1,-2,0,sham 1,101,100Hz,3mA,3+min
+LA 2+/3-,100Hz 3mA 3+min,1,-1,0,sham 1,102,100Hz,3mA,3+min
+ROFC 1+/3-,1Hz 3mA 3+min,-2,-1,0,sham 1,103,1Hz,3mA,3+min
+LVC 2+/3-,100Hz 1mA 3+min,1,1,0,sham 1,104,100Hz,1mA,3+min
+ROFC 7+/1-,1Hz 6mA 3+min,0,0,-1,sham 1,105,1Hz,6mA,3+min
+RA 2+/3-,1Hz 6mA 3+min,0,-1,0,sham 1,106,1Hz,6mA,3+min
+LSGC 1+/2-,100Hz 3mA 3+min,1,1,0,sham 1,107,100Hz,3mA,3+min
+LOFC 8+/6-,1Hz 3mA 3+min,0,-2,0,sham 1,108,1Hz,3mA,3+min
+ROFC 6+/5-,100Hz 6mA 3+min,0,0,-1,sham 1,109,100Hz,6mA,3+min
+ROFC 7+/1-,1Hz 6mA 3+min,-1,2,0,sham 2,110,1Hz,6mA,3+min
+LSGC 1+/2-,100Hz 3mA 3+min,-1,0,0,sham 2,111,100Hz,3mA,3+min
+ROFC 1+/3-,1Hz 3mA 3+min,0,0,0,sham 2,112,1Hz,3mA,3+min
+ROFC 6+/5-,100Hz 6mA 3+min,1,-1,0,sham 2,113,100Hz,6mA,3+min
+LVC 2+/3-,100Hz 1mA 3+min,2,1,0,sham 2,114,100Hz,1mA,3+min
+RSGC 4+/5- ,100Hz 3mA 3+min,2,-1,-1,sham 2,115,100Hz,3mA,3+min
+RSGC 3+/4-,100Hz 3mA 3+min,2,1,0,sham 2,116,100Hz,3mA,3+min
+LSGC 3+/4-,100Hz 3mA 3+min,0,-1,-1,sham 2,117,100Hz,3mA,3+min
+RSGC 4+/5- ,100Hz 3mA 3+min,1,1,0,sham 2,118,100Hz,3mA,3+min
+LSGC 1+/2-,100Hz 3mA 3+min,0,2,0,sham 2,119,100Hz,3mA,3+min
+ROFC 1+/3-,1Hz 3mA 3+min,0,-1,0,sham 2,120,1Hz,3mA,3+min
+LVC 2+/3-,100Hz 1mA 3+min,1,0,-1,sham 2,121,100Hz,1mA,3+min
+ROFC 7+/1-,100Hz 3mA 3+min,-2,0,-1,sham 2,122,100Hz,3mA,3+min
+RVC 2+/3-,100Hz 3mA 3+min,2,0,0,sham 2,123,100Hz,3mA,3+min
+ROFC 6+/5-,100Hz 6mA 3+min,1,1,0,sham 2,124,100Hz,6mA,3+min
+ROFC 7+/1-,1Hz 6mA 3+min,-2,-1,0,sham 3,125,1Hz,6mA,3+min
+LSGC 1+/2-,100Hz 3mA 3+min,0,-1,0,sham 3,126,100Hz,3mA,3+min
+LVC 1+/2-,100Hz 1mA 3+min,0,1,0,sham 3,127,100Hz,1mA,3+min
+ROFC 6+/5-,100Hz 6mA 3+min,-1,1,0,sham 3,128,100Hz,6mA,3+min
+RVC 2+/3-,100Hz 1mA 3+min,1,0,0,sham 3,129,100Hz,1mA,3+min
+RSGC 3+/4-,100Hz 3mA 3+min,1,-2,0,sham 3,130,100Hz,3mA,3+min
+ROFC 1+/3-,1Hz 3mA 3+min,-1,0,0,sham 3,131,1Hz,3mA,3+min
+RVC 2+/3-,100Hz 1mA 3+min,0,0,0,sham 3,132,100Hz,1mA,3+min
+RSGC 3+/4-,100Hz 3mA 3+min,0,-1,0,sham 3,133,100Hz,3mA,3+min
+LVC 2+/3-,100Hz 1mA 3+min,0,0,0,sham 3,134,100Hz,1mA,3+min
+LSGC 1+/2-,100Hz 3mA 3+min,0,0,0,sham 3,135,100Hz,3mA,3+min
+ROFC 7+/1-,1Hz 3mA 3+min,0,0,0,sham 3,136,1Hz,3mA,3+min
+ROFC 6+/5-,100Hz 3mA 3+min,0,0,-1,sham 3,137,100Hz,3mA,3+min
+RVC 2+/3-,100Hz 3mA 10min,2,2,0,continuous,138,100Hz,3mA,10min
+RSGC 3+/4- ,100Hz 3mA 10min,0,0,-1,continuous,139,100Hz,3mA,10min
+RSGC 4+/5- ,100Hz 3mA 10min,0,-1,-1,continuous,140,100Hz,3mA,10min
+ROFC 7+/1-,1Hz 6mA 3+min,-1,1,0,continuous,141,1Hz,6mA,3+min
+RSGC 3+4-,100Hz 3mA 10min,1,-1,0,tasks1,142,100Hz,3mA,10min
+RVC 2+/3-,100Hz 2mA 10min,2,1,0,tasks1,143,100Hz,2mA,10min
+ROFC 7+/1-,1Hz 3mA 10min,-1,0,0,tasks1,144,1Hz,3mA,10min
+RSGC 3+/4-,100Hz 3mA 15min,0,0,0,plasticity1,145,100Hz,3mA,15min
+LSGC 3+/4-,100Hz 3mA 15min,0,0,0,plasticity1,146,100Hz,3mA,15min
+ROFC 7+/1-,1Hz 3mA 15min,0,0,-1,plasticity1,147,1Hz,3mA,15min
+LOFC 8+/1-,1Hz 3mA 15min,1,1,0,plasticity1,148,1Hz,3mA,15min
+RVC 2+/3-,100Hz 2mA 15min,0,-1,-1,plasticity1,149,100Hz,2mA,15min
+LVC 1+/2-,100Hz 2mA 15min,0,1,-1,plasticity1,150,100Hz,2mA,15min
+ROFC 3+/1-,100Hz 3mA 10+min,1,0,0,plasticity1,151,100Hz,3mA,10+min
+LOFC 3+/1-,100Hz 3mA 10+min,1,0,0,plasticity1,152,100Hz,3mA,10+min
+RVC 2+/3-,100Hz 2mA 3min,0,0,0,plasticity bonus,153,100Hz,2mA,3min
+RVC 2+/3-,100Hz 3mA 3min,2,2,0,plasticity bonus,154,100Hz,3mA,3min
+ROFC 7+/1-,1Hz 3mA 12min,0,1,0,plasticity2,155,1Hz,3mA,12min
+ROFC 7+/1-,5Hz 6mA 10min,0,2,0,plasticity2,156,5Hz,6mA,10min
+RVC 2+/3-,100Hz 2mA 3min,1,2,0,bonus,157,100Hz,2mA,3min
+RVC 2+/3-,100Hz 3mA 3min,2,2,0,bonus,158,100Hz,3mA,3min
+RVC 2+/3-,100Hz 2Ma 9min,2,1,0,continuous,159,100Hz,2Ma,9min
+ROFC 7+/1-,5Hz 6mA TMS,2,1,0,TBS,160,5Hz,6mA,TMS
+LOFC 3+/1-,50Hz burster TMS,-1,0,0,TBS,161,50Hz,burster,TMS
+LOFC 3+/1-,10 Hz 3mA TMS,0,0,0,TBS,162,10,Hz,TMS
