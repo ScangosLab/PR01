@@ -1,0 +1,13 @@
+stim_site,full_params,arousal,pos_neg,somatic,stim_sesh,trial,freq,amps,duration
+pre_ROFC 7+/1-,sham,1,0,0,sham 1,104.5,,,
+pre_ROFC 7+/1-,sham,0,0,0,sham 2,109.5,,,
+pre_ROFC 7+/1-,sham,-1,1,0,sham 3,124.5,,,
+pre_ROFC 7+/1-,baseline,1,-1,0,continuous,140.5,,,
+pre_rsgc 3+/4-,sham,-1,0,0,sham 2,115.5,,,
+pre_rsgc 3+/4-,sham,0,-1,0,sham3_1,129.5,,,
+pre_rsgc 3+/4-,sham,0,0,1,sham3_2,132.5,,,
+pre_rsgc 3+/4-,sham,0,0,0,plasticity1,144.5,,,
+preRVC 2+/30,pre stim,-1,0,0,sham 2,122.5,,,
+preRVC 2+/30,pre stim,0,1,0,continuous,137.5,,,
+RVC 2+/3-,100Hz 2mA 3min,0,0,0,plasticity bonus,153,100Hz,2mA,3min
+preRVC 2+/30,pre stim,0,1,0,bonus,157.5,,,
